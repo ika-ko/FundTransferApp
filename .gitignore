@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.idea/
+.vs/
+*.user
+
+# Local tooling
+.claude/
